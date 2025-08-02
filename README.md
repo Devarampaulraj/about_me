@@ -1,4 +1,4 @@
-````markdown name=README.md
+markdown name=README.md
 # 🦄 Ultra Supernatural README for Devaram Paulraj! 🌠
 
 Hey there, cosmic wanderer! I'm **Devaram Paulraj** — not just an engineering student, but an explorer of the realms where tech meets imagination at **Sri Ramakrishna Engineering College, Coimbatore**.
