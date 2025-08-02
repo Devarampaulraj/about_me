@@ -22,7 +22,8 @@ I'm a dedicated and forward-thinking engineering student at **Sri Ramakrishna En
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devaram-paulraj-1953a4300/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)]([https://github.com/devaram-paulraj](https://github.com/Devarampaulraj))
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Devarampaulraj)
+
 
 ---
 
