@@ -4,7 +4,7 @@ I'm a dedicated and forward-thinking engineering student at **Sri Ramakrishna En
 
 ## 🌟 About Me
 
-- 🎓 Pursuing B.Tech in Computer Science  
+- 🎓 Pursuing B.Tech in Information Technology  
 - 💡 Interests: AI/ML, Cloud Computing, Scalable Application Development, Full-Stack Engineering  
 - 🧠 Tech Stack:  
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
